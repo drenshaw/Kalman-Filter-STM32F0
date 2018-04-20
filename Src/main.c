@@ -8,6 +8,7 @@
 #include "main.h"
 #include "stm32f0xx_hal.h"
 #include <stdarg.h>
+#include "kalman.h"
 
 /* Defines */
 #define RED 6

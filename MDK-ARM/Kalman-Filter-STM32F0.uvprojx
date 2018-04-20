@@ -494,6 +494,11 @@
               <FileType>1</FileType>
               <FilePath>../Src/stm32f0xx_hal_msp.c</FilePath>
             </File>
+            <File>
+              <FileName>kalman.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\kalman.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
